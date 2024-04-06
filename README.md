@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [RX AI Summarizer](https://rxai.vercel.app/)
 
-- 🌱 I’m currently learning **React (Next.js), Vue.js, Vite.js, TailwindCSS, Material UI, ShadCN, Redux and more..!**
+- 🌱 I’m currently learning **React (Next.js), Vue.js, Vite.js, TailwindCSS, Material UI, ShadCN, RapidAPO and more..!**
 
 - 👯 I’m looking to collaborate on [GitHub](https://github.com/Ryen-X/)
 
