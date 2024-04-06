@@ -34,21 +34,21 @@ export const projectsData = [
     
     title: 'rxai.vercel.app',
     description:
-      "I worked as a full-stack developer on this startup project for a few days. Users can receive summarized articles from blog posts in matter of seconds.",
+      "I worked as a full-stack developer on this startup project for a few weeks. Users can receive summarized articles from blog posts in matter of seconds.",
     tags: ["React", "Vite.js", "Rapid API", "Tailwind", "Redux"],
     imageUrl: projec,
   },
   {
-    title: "(W.I.P) rxcomms.vercel.app",
+    title: "(W.I.P) blinkview.vercel.app",
     description:
       "Communicate with people easier and faster than ever! RX Comms is a lightweight app good for handling large requests to servers.",
     tags: ["React", "TypeScript", "Next.js", "Tailwind", "ClerkAuth"],
     imageUrl: project,
   },
   {
-    title: "(W.I.P) rxmeetings.vercel.app",
+    title: "(W.I.P) rxmedia.vercel.app",
     description:
-      "A video call meeting app similar to Zoom and Google Meet, focusing on faster performance and more secure database.",
+      "A SaaS similar to Canva. I worked o. this project with the motto to provide everything free as possible.",
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
     imageUrl: projects,
   },
